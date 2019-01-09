@@ -1,2 +1,2 @@
 # RotatingCube
-![](RotatingCube/RotatingCube.gif)
+![](/RotatingCube.gif)
